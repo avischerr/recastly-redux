@@ -1,5 +1,7 @@
 import React from 'react';
 import VideoListEntry from './VideoListEntry.js';
+//// import YOUTUBE_API_KEY from '../config/youtube.js';
+
 
 var VideoList = ({videos, handleVideoListEntryTitleClick}) => (
   <div className="video-list">

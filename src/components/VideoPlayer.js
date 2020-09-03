@@ -1,4 +1,6 @@
 import React from 'react';
+//// import YOUTUBE_API_KEY from '../config/youtube.js';
+
 
 var VideoPlayer = ({video}) => (
   !video
